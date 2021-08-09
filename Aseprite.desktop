@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.2.28
+Type=Application
+Terminal=false
+Exec=/home/isaacm/Apps/Aseprite/build/bin/aseprite
+Name=Aseprite
+Icon=/home/isaacm/Apps/Aseprite/build/bin/data/icons/ase256.png
